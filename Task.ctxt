@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Task
+comment1.params=n\ s\ e
+comment1.target=Task(java.lang.String,\ Time,\ Time)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=Time\ getStartTime()
+comment4.params=
+comment4.target=Time\ getEndTime()
+comment5.params=n
+comment5.target=void\ setName(java.lang.String)
+comment6.params=x
+comment6.target=void\ setStartTime(Time)
+comment7.params=x
+comment7.target=void\ setEndTime(Time)
+numComments=8
